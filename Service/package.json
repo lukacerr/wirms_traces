@@ -2,6 +2,8 @@
   "name": "wirms_traces",
   "version": "1.0.0",
   "description": "Microservicio Wirsolut de traces y excepciones",
+  "license": "UNLICENSED",
+  "private": "true",
   "main": "src/main.ts",
   "scripts": {
     "dev": "nodemon",
