@@ -5,7 +5,7 @@
   "main": "src/main.ts",
   "scripts": {
     "dev": "nodemon",
-    "build": "tsc",
+    "build": "npx tsc",
     "release": "node -r ts-node/register/transpile-only -r tsconfig-paths/register ./dist/main.js"
   },
   "dependencies": {
